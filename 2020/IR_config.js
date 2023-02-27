@@ -1,7 +1,7 @@
 var config_data = `
 {
-  "title":"Scouting PASS 2020",
-  "page_title":"InFInItE RECHARGE",
+  "title":"Scouting PASS 2023",
+  "page_title":"Charged Up",
   "version":"0.01",
   "schedule_file":"2020mokc.js",
   "prematch": [
